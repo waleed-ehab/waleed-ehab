@@ -11,7 +11,7 @@ Driven to build something big — software that reaches millions and stands the 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B0082?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-4B0082?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge)
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-228B22?style=for-the-badge)
 
