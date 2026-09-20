@@ -2,6 +2,8 @@
 
 I'm Waleed Ehab :sunglasses:
 
+Driven to build something big — software that reaches millions and stands the test of decades, not just deadlines.
+
 :page_with_curl: I'm currently learning:
 <br><br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
