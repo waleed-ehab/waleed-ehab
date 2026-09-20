@@ -9,7 +9,11 @@ Driven to build something big — software that reaches millions and stands the 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B0082?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-228B22?style=for-the-badge)
 
 :star: Here are some projects that I've built:
 - [Banking System](https://github.com/waleed-ehab/Banking-System)
