@@ -1,19 +1,23 @@
-# Hi, I'm Waleed Ehab 👋
+# Waleed Ehab
+[![Build Status](https://drone.moe.team/api/badges/[YOUR-CI-PATH]/status.svg)]([YOUR-CI-URL])
+[![pipeline status](https://gitlab.com/[YOUR-CI-PATH]/badges/main/pipeline.svg)]([YOUR-CI-URL])
 
-## About Me
-Aspiring software developer, currently building a strong foundation in C# and .NET through hands-on projects and Clean Architecture principles.
 
-## Tech Stack
-- C#
-- C++
-- SQL Server / T-SQL
-- .NET Framework
-- OOP & SOLID Principles
-- Data Structures & Algorithms
-- Windows Forms
-- Visual Studio Community
+<p align="center">
+  <a href="[YOUR-PROFILE-OR-WEBSITE-URL]">
+    <img src="[YOUR-IMAGE-URL]" width="400" alt="Waleed Ehab">
+  </a>
+</p>
 
-## Connect with Me
-- GitHub: [@waleed-ehab](https://github.com/waleed-ehab)
-- LinkedIn: [waleed-ehab-563732333](https://www.linkedin.com/in/waleed-ehab-563732333)
-- Email: waleedehab229@gmail.com
+## Description
+Aspiring software developer, currently building a strong foundation in C#, C++, SQL Server/T-SQL, and .NET, with a focus on OOP, SOLID principles, data structures & algorithms, and Windows Forms development.
+
+## Trailer
+[![Watch the video](https://img.youtube.com/vi/[YOUR-VIDEO-ID]/hqdefault.jpg)](https://www.youtube.com/embed/[YOUR-VIDEO-ID])
+
+## Download
+- Windows, Linux, Android : [Github Release]([YOUR-RELEASE-URL])
+- Android : [ApkPure]([YOUR-APKPURE-URL]) & [AppCenter]([YOUR-APPCENTER-URL])
+
+## Contributors
+- Waleed Ehab / [@waleed-ehab](https://github.com/waleed-ehab)
