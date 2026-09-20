@@ -11,6 +11,7 @@ I'm Waleed Ehab :sunglasses:
 
 :star: Here are some projects that I've built:
 - [Banking System](https://github.com/waleed-ehab/Banking-System)
+- [Hangman Game](https://github.com/waleed-ehab/Hangman-Game)
 
 <details>
 <summary>:trophy: Github Stats</summary>
