@@ -19,12 +19,6 @@ Driven to build something big — software that reaches millions and stands the 
 - [Banking System](https://github.com/waleed-ehab/Banking-System)
 - [Hangman Game](https://github.com/waleed-ehab/Hangman-Game)
 
-<details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=waleed-ehab&show_icons=true&theme=default">
-<img src="https://github-profile-trophy.vercel.app/?username=waleed-ehab">
-</details>
-
 <br>
 
 Feel free to contact me :yum:
