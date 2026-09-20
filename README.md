@@ -21,7 +21,7 @@ Driven to build something big — software that reaches millions and stands the 
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=waleed-ehab">
+<img src="https://github-readme-stats.vercel.app/api?username=waleed-ehab&show_icons=true&theme=default">
 <img src="https://github-profile-trophy.vercel.app/?username=waleed-ehab">
 </details>
 
